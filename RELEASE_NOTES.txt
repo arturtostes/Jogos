@@ -1,0 +1,11 @@
+CHICKEN: THE GAME — RELEASE NOTES
+
+- Nome final aplicado ao menu e janela.
+- Todas as ferramentas DEV removidas.
+- Fases restauradas para 60 segundos.
+- Fullscreen escalado com F11 para alternar.
+- 4 trilhas originais integradas.
+- Save persistente em AppData no Windows.
+- HUD final com apenas FASE e TEMPO.
+- Botao de retorno ao menu apos vitoria.
+- Build one-file preparado via PyInstaller.
